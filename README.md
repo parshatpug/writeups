@@ -12,10 +12,26 @@ This repo contains all interesting writeups I've found classified in an apprpria
 ### Dos
 - [DoS and BugBounties :A series of DoS attacks on HackerOne](https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9) by [Ninad Mishra](https://medium.com/@NinadMishra)
 
-### IDOR
+### IDOR 
+- [Top 25 reports](https://medium.com/@corneacristian/top-25-idor-bug-bounty-reports-ba8cd59ad331) by [Cristian Cornea](https://medium.com/@corneacristian)
 - [Finding Hidden IDORs](https://medium.com/@aseem.shrey/attention-to-details-a-curious-case-of-multiple-idors-5a4417ba8848) by [Aseem Shrey](https://twitter.com/AseemShrey)
+
+### Open Redirect
+- [Top 25 reports](https://medium.com/@corneacristian/top-25-open-redirect-bug-bounty-reports-5ffe11788794) by [Cristian Cornea](https://medium.com/@corneacristian)
+
+### Race Conditions 
+- [All about Race Condition](https://pandaonair.com/2020/06/11/race-conditions-exploring-the-possibilities.html) by [Milind Purswani](https://twitter.com/MilindPurswani)
+- [Top 25 reports](https://medium.com/@corneacristian/top-25-race-condition-bug-bounty-reports-84f9073bf9e5) by [Cristian Cornea](https://medium.com/@corneacristian)
+
+### RCE
+- [Top 25 reports](https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc) by [Cristian Cornea](https://medium.com/@corneacristian)
 
 ### SSRF
 - [For service: image-converter](https://medium.com/@xvnpw/from-in-regex-to-ssrf-part-1-31d5706854ef) by [Niemiec Marcin](https://twitter.com/xvnpw)
+
+### Subdomain Takeover
+- [Read The Docs takeover](https://blog.shashank.co/2020/07/subdomain-takeover-using-readthedocs.html) by [Shashank](https://twitter.com/cyberboyIndia)
+
 ### XSS
+- [Top 25 reports](https://medium.com/@corneacristian/top-25-xss-bug-bounty-reports-b3c90e2288c8) by [Cristian Cornea](https://medium.com/@corneacristian)
 - [chaining xss and cors](https://medium.com/bugbountywriteup/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397) by [sandh0t](https://twitter.com/sandh0t)

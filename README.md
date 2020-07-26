@@ -34,6 +34,7 @@ This repo contains all interesting writeups I've found classified in an apprpria
 
 ### SSRF
 - [For service: image-converter](https://medium.com/@xvnpw/from-in-regex-to-ssrf-part-1-31d5706854ef) by [Niemiec Marcin](https://twitter.com/xvnpw)
+- [AllthingsSSRF](https://github.com/jdonsec/AllThingsSSRF) by [Jdonsec](https://github.com/jdonsec)
 
 ### Subdomain Takeover
 - [Read The Docs takeover](https://blog.shashank.co/2020/07/subdomain-takeover-using-readthedocs.html) by [Shashank](https://twitter.com/cyberboyIndia)

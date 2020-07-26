@@ -1,6 +1,9 @@
 # Writeups
 This repo contains all interesting writeups I've found classified in an apprpriate manner
 
+### Android Application Resources
+- [AllThingsAndroid](https://github.com/jdonsec/AllThingsAndroid) by [Jdonsec](https://github.com/jdonsec)
+
 ### Cache Poisoning
 - [Cache Poisoning + XSS on Drupal](https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f) by [Rohan Aggarwal](https://twitter.com/nahoragg)
 

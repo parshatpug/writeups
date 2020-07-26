@@ -1,5 +1,8 @@
-# writeups
+# Writeups
 This repo contains all interesting writeups I've found classified in an apprpriate manner
+
+### Cache Poisoning
+- [Cache Poisoning + XSS on Drupal](https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f) by [Rohan Aggarwal](https://twitter.com/nahoragg)
 
 ### Cors
 - [All about CORS](https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties) by [James Kettle(@albinowax)](https://twitter.com/albinowax)
@@ -15,6 +18,9 @@ This repo contains all interesting writeups I've found classified in an apprpria
 ### IDOR 
 - [Top 25 reports](https://medium.com/@corneacristian/top-25-idor-bug-bounty-reports-ba8cd59ad331) by [Cristian Cornea](https://medium.com/@corneacristian)
 - [Finding Hidden IDORs](https://medium.com/@aseem.shrey/attention-to-details-a-curious-case-of-multiple-idors-5a4417ba8848) by [Aseem Shrey](https://twitter.com/AseemShrey)
+
+### Oauth Misconfiguration
+- [Self XSS + Oauth Misconfig leads to Stored XSS](https://nahoragg.github.io/bugbounty/2019/01/27/Chaining-Tricky-OAuth-Exploitation-To-Stored-XSS.html) by [Rohan Aggarwal](https://twitter.com/nahoragg)
 
 ### Open Redirect
 - [Top 25 reports](https://medium.com/@corneacristian/top-25-open-redirect-bug-bounty-reports-5ffe11788794) by [Cristian Cornea](https://medium.com/@corneacristian)
@@ -35,3 +41,4 @@ This repo contains all interesting writeups I've found classified in an apprpria
 ### XSS
 - [Top 25 reports](https://medium.com/@corneacristian/top-25-xss-bug-bounty-reports-b3c90e2288c8) by [Cristian Cornea](https://medium.com/@corneacristian)
 - [chaining xss and cors](https://medium.com/bugbountywriteup/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397) by [sandh0t](https://twitter.com/sandh0t)
+- [Chaining XSS with web cache poisoning on Drupal](https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f) by [Rohan Aggarwal](https://twitter.com/nahoragg)
